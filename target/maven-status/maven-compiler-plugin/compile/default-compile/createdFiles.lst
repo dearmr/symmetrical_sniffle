@@ -1,0 +1,3 @@
+com\charter\enterprise\motd\Motd.class
+com\charter\enterprise\motd\MsgOfTheDay.class
+com\charter\enterprise\motd\MotdController.class
